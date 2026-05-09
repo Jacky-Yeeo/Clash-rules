@@ -1,5 +1,4 @@
-# facebook & whatsapp
-+.whatsapp.net
-+.whatsapp.com
-+.facebook.com
-+.fbcdn.net
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
