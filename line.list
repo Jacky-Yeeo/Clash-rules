@@ -1,9 +1,8 @@
-# line
-+.line.me
-+.line-apps.com
-+.line-scdn.net
-+.sentry.io
-+.taboola.com
-+.taboolanews.com
-+.criteo.com
-+.pubmatic.com
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,taboolanews.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,pubmatic.com
