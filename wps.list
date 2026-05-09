@@ -1,11 +1,10 @@
-# WPS 广告与统计拦截
-+.wps.cn
-+.wps.net
-+.wps.com
-+.wps.com.cn
-+.wpscdn.cn
-+.wpscdn.com
-+.ksosoft.com
-+.kingsoft.com
-+.wpsupdate.com
-+.wpsads.com
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wps.net
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wps.com.cn
+DOMAIN-SUFFIX,wpscdn.cn
+DOMAIN-SUFFIX,wpscdn.com
+DOMAIN-SUFFIX,ksosoft.com
+DOMAIN-SUFFIX,kingsoft.com
+DOMAIN-SUFFIX,wpsupdate.com
+DOMAIN-SUFFIX,wpsads.com
