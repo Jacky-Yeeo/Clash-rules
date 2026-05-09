@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,wps.com
 DOMAIN-SUFFIX,wps.com.cn
 DOMAIN-SUFFIX,wpscdn.cn
 DOMAIN-SUFFIX,wpscdn.com
-DOMAIN-SUFFIX,ksosoft.com
-DOMAIN-SUFFIX,kingsoft.com
-DOMAIN-SUFFIX,wpsupdate.com
-DOMAIN-SUFFIX,wpsads.com
+DOMAIN-KEYWORD,ksosoft
+DOMAIN-KEYWORD,kingsoft
+DOMAIN-KEYWORD,wpsupdate
+DOMAIN-KEYWORD,wpsads
