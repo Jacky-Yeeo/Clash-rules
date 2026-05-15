@@ -1,4 +1,4 @@
-$repo = "D:\11网络配置\Github\Shadowrocket-Rules\release"
+$repo = "D:\Github\Shadowrocket-Rules\release"
 $log = Join-Path $repo "auto-sync.log"
 
 Set-Location $repo
@@ -20,3 +20,4 @@ git push origin release 2>&1 | Add-Content $log
 
 "[$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')] End sync" | Add-Content $log
 "" | Add-Content $log
+
