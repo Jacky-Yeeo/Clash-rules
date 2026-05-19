@@ -1,9 +1,12 @@
+# OpenAI / ChatGPT
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.live.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
@@ -22,10 +25,85 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
-browser-intake-datadoghq.com
-chat.openai.com.cdn.cloudflare.net
-openai-api.arkoselabs.com
-openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-openaicomproductionae4b.blob.core.windows.net
-production-openaicom-storage.azureedge.net
-static.cloudflareinsights.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,z01.azurefd.net
+DOMAIN-SUFFIX,azureedge.net
+
+# Anthropic / Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# Copilot (AI Specific)
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+
+# AI Search & Productivity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,perplexity.ai
+
+# AI Creative & Developer
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,pika.art
+DOMAIN-SUFFIX,leonardo.ai
+
+# Manus AI - Full Coverage (Auth, CDN, API & Assets)
+DOMAIN-SUFFIX,manus.ai
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manus.com
+DOMAIN-SUFFIX,clerk.com
+DOMAIN-SUFFIX,clerk.accounts.dev
+DOMAIN-SUFFIX,clerk.manus.ai
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel-insights.com
+DOMAIN-SUFFIX,vitals.vercel-insights.com
+DOMAIN-SUFFIX,jsshell.com
+DOMAIN-SUFFIX,manuscdn.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,stripe.com
+
+# Perplexity AI - AI Search Engine
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,docs.perplexity.ai
+DOMAIN-SUFFIX,research.perplexity.ai
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,intercom.io
+
+# Midjourney - AI Image Generation
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,midjourney.io
+DOMAIN-SUFFIX,midjourney.net
+DOMAIN-SUFFIX,docs.midjourney.com
+DOMAIN-SUFFIX,help.midjourney.com
+DOMAIN-SUFFIX,mj-gallery.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.com
+
+# Akool - AI Face Swap & Marketing Video
+DOMAIN-SUFFIX,akool.com
+DOMAIN-SUFFIX,api.akool.com
+DOMAIN-SUFFIX,static.akool.com
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,amazon.co.uk
+DOMAIN-SUFFIX,amazon.de
+DOMAIN-SUFFIX,amazon.it
+DOMAIN-SUFFIX,amazon.ca
+DOMAIN-SUFFIX,amazon.com.au
+DOMAIN-SUFFIX,amazon.com.br
+DOMAIN-SUFFIX,amazon.com.mx
+# DOMAIN-SUFFIX,amazon.cn
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,images-amazon.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,assoc-amazon.com
+DOMAIN-SUFFIX,completion.amazon.com
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,pv-cdn.net
+DOMAIN-SUFFIX,atv-ps.amazon.com
+DOMAIN-SUFFIX,avod-mp4s.amazon.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,kindle.com
+DOMAIN-SUFFIX,alexa.com
+DOMAIN-SUFFIX,amazon-devices.com
+DOMAIN-SUFFIX,amazontrust.com
