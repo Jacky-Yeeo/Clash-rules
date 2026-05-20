@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # Copilot (AI Specific)
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,sydney.bing.com
 
