@@ -1,10 +1,10 @@
+param([switch]$Manual)
+
 $repo = "D:\Github\Shadowrocket-Rules\release"
 $log = Join-Path $repo "auto-sync.log"
-$manual = [Environment]::UserInteractive
-
 Set-Location $repo
 
-if ($manual) {
+if ($Manual) {
     Write-Host "Start sync: $repo"
 }
 
@@ -26,7 +26,7 @@ git push origin release 2>&1 | Add-Content $log
 "[$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')] End sync" | Add-Content $log
 "" | Add-Content $log
 
-if ($manual) {
+if ($Manual) {
     Write-Host "Sync finished. Log: $log"
     Read-Host "Press Enter to close"
 }
